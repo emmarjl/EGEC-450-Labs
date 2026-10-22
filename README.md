@@ -1,3 +1,3 @@
-# 450-Lab
+# EGEC 450 - Lab Files
 
-# All labs for 450
+## EGEC 450 Course: In this course, we are learning interfacing techniques based on speed, timings, synchronization, interrupts, protocols, noise, and race conditions. As well as, interfacing specifications of the processor data, address and control buses.
