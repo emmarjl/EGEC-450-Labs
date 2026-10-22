@@ -2,5 +2,8 @@
 
 EGEC 450 Course: In this course, we are learning interfacing techniques based on speed, timings, synchronization, interrupts, protocols, noise, and race conditions. As well as, interfacing specifications of the processor data, address and control buses.
 
+## Lab 2: Traffic Light Controller
+![Traffic Light Controller Board](images/traffic_light_board.png)
+
 ## Lab 3: Interrupt-Driven Stopwatch
 ![Interrupt-Driven Stopwatch Board](images/stopwatch_board.png)
